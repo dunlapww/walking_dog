@@ -1,0 +1,13 @@
+
+2. Dog Preparation
+  2.1 Get Leash
+  2.2 Get Collar
+  2.3 Get bags
+3. Walk preparation
+  3.1 Plan Route
+    3.1.1 Check Weather
+      3.1.1.1 Open weather app
+        3.1.1.1.1 Enter local city
+    3.2.2 Look up route on Google
+  3.2 Put on shoes
+4. Walk
