@@ -1,0 +1,27 @@
+class vehicle
+
+attributes
+wheel_count: (int)
+color: string
+car_type: string
+car_year: int
+car_weight:float
+
+methods:
+remove_wheel (reduces wheel count)
+paint_vehicle (changes color)
+add_turbo (changes car_type and increases car_weight)
+
+object/Instance1: F350
+wheel_count: 4
+color: blue
+car_type: pickup
+car_year: 1995
+car_weight: 1893.5
+
+Object/Instance2: Harley_Davidson
+wheel_count: 2
+color: black
+car_type: motorcycle
+car_year: 2010
+car_weight: 800.7
